@@ -4,15 +4,17 @@ import './Books.css';
 
 const Books = () => {
   const items = LIST.map((book) => (
-    <li key={book.title}>
+    <div className='book-container' key={book.title}>
       <img
         className='book'
         src={process.env.PUBLIC_URL + '/images/books/' + book.image}
         alt={book.title}
       />
-      <span>{book.title}</span>
-      <span>{book.author}</span>
-    </li>
+      <br />
+      <span>
+        {book.title} by {book.author}
+      </span>
+    </div>
   ));
   return (
     <div id='book-container'>

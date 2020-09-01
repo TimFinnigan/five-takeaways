@@ -1,7 +1,13 @@
-#book-container {
+#book-list {
   margin-top: 10px;
-  border: 1px solid lightgrey;
   padding: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.book-container {
+  margin: 25px;
 }
 
 .book {
