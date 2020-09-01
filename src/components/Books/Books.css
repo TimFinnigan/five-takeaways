@@ -10,7 +10,18 @@
   margin: 25px;
 }
 
+.book-container:hover {
+  cursor: pointer;
+}
+
 .book {
   height: 230px;
   width: 230px;
+}
+
+.book-details {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 18;
+  margin-top: 5px;
 }

@@ -10,10 +10,9 @@ const Books = () => {
         src={process.env.PUBLIC_URL + '/images/books/' + book.image}
         alt={book.title}
       />
-      <br />
-      <span>
+      <div className='book-details'>
         {book.title} by {book.author}
-      </span>
+      </div>
     </div>
   ));
   return (
