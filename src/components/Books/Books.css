@@ -1,3 +1,10 @@
 #book-container {
-  border: 1px solid red;
+  margin-top: 10px;
+  border: 1px solid lightgrey;
+  padding: 20px;
+}
+
+.book {
+  height: 230px;
+  width: 230px;
 }
