@@ -1,16 +1,17 @@
 import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
-import Header from './components/Header/Header';
-import Subheader from './components/Subheader/Subheader';
-import Books from './components/Books/Books';
+import Home from './components/Home/Home';
+import Details from './components/Details/Details';
 
 function App() {
   return (
-    <div>
-      <Header />
-      <Subheader />
-      <Books />
-    </div>
+    <Router>
+      <Switch>
+        <Route exact path='/' component={Home} />
+        <Route path='/:book' component={Details} />
+      </Switch>
+    </Router>
   );
 }
 
