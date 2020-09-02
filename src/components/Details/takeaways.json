@@ -1,3 +1,8 @@
 {
-    "test": "content"
+    "mastery-robert-greene": {
+        "description": "description of mastery"
+    },
+    "zero-to-one-peter-thiel": {
+        "description": "description of zero to one"
+    }
 }
