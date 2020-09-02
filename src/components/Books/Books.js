@@ -5,7 +5,7 @@ import './Books.css';
 
 const Books = () => {
   const items = LIST.map((book) => (
-    <Link to={'/' + book.url}>
+    <Link to={{ pathname: '/' + book.url, book: { details: book } }}>
       <div className='book-container' key={book.title}>
         <img
           className='book'
