@@ -40,3 +40,8 @@
   font-size: 18;
   margin-top: 5px;
 }
+
+.book-link {
+  text-decoration: none;
+  color: grey;
+}
