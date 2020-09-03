@@ -20,13 +20,13 @@ const Details = (props) => {
       <div className='details'>
         <div className='details__title'>{title}</div>
         <div className='details__description'>{description}</div>
-        <ul className='details__list'>
+        <ol className='details__list'>
           <li className='lesson'>{one}</li>
           <li className='lesson'>{two}</li>
           <li className='lesson'>{three}</li>
           <li className='lesson'>{four}</li>
           <li className='lesson'>{five}</li>
-        </ul>
+        </ol>
       </div>
     </div>
   );
