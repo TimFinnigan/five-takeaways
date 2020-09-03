@@ -57,33 +57,33 @@
             "text": ""
         }
     },
-    "book": {
-        "title": "",
-        "description": "",
+    "ai-superpowers-kai-fu-lee": {
+        "title": "AI Superpowers by Kai-Fu Lee",
+        "description": "Kai-Fu Lee draws from a wealth of experience from the worlds of business and technology. Lee worked for some of the top tech companies in the United States and a successful venture capital firm in China. He is uniquely positioned to offer powerful insights on how Artificial Intelligence is changing the world. Perhaps he is somewhat biased in favor of China, but still we should not disregard the claims he is making.",
         "one": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Data is fueling the progress in ai",
+            "quote": "The invention of deep learning means that we are moving from the age of expertise to the age of data. Training successful deep-learning algorithms requires computing power, technical talent, and lots of data. But of those three, it is the volume of data that will be the most important going forward. That’s because once technical talent reaches a certain threshold, it begins to show diminishing returns. Beyond that point, data makes all the difference. Algorithms tuned by an average engineer can outperform those built by the world’s leading experts if the average engineer has access to far more data.",
+            "text": "Data is crucial when it comes to successfully training algorithms. China is uniquely positioned in this regard. Its huge population and lack of privacy laws help it collect massive amounts of data."
         },
         "two": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Chinese companies are more market-driven than mission-driven",
+            "quote": "Instead of being mission-driven, Chinese companies are first and foremost market-driven. Their ultimate goal is to make money, and they’re willing to create any product, adopt any model, or go into any business that will accomplish that objective.",
+            "text": "Unlike many Silicon Valley tech companies, Chinese businesses tend to focus more on the market than a mission. They don’t get as distracted by lofty ideals or philosophical debates. Their main focus is simply to make more money."
         },
         "three": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "The Chinese government is more proactive at investing in technology",
+            "quote": "…while America’s combative political system aggressively punishes missteps or waste in funding technological upgrades, China’s techno-utilitarian approach rewards proactive investment and adoption.",
+            "text": "Democracies can often be incredibly inefficient. Open debate and quick election cycles lead to short-term thinking and a conservative approach to innovation. This may be the price of having more freedoms."
         },
         "four": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "We should invest in service-oriented jobs to offset rising unemployment",
+            "quote": "…care, service, and education—would encompass a wide range of activities, with different levels of compensation for full- and part-time participation. Care work could include parenting of young children, attending to an aging parent, assisting a friend or family member dealing with illness, or helping someone with mental or physical disabilities live life to the fullest. This category would create a veritable army of people—loved ones, friends, or even strangers—who could assist those in need...",
+            "text": "Artificial Intelligence could start replacing jobs at an alarming rate. Instead of panicking, we should invest more in service work and caregiver roles. Let’s help people help each other, by funding initiatives to spread compassion."
         },
         "five": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Love is what separates humans from technology",
+            "quote": "For all of AI’s astounding capabilities, the one thing that only humans can provide turns out to also be exactly what is most needed in our lives: love. It’s that moment when we see our newborn babies, the feeling of love at first sight, the warm feeling from friends who listen to us empathetically, or the feeling of self-actualization when we help someone in need. We are far from understanding the human heart, let alone replicating it. But we do know that humans are uniquely able to love and be loved, that humans want to love and be loved, and that loving and being loved are what makes our lives worthwhile.",
+            "text": "Although AI will have a major impact on our world, we can’t neglect the power of love and human connection. Empathy and relationships will help us navigate a complex and uncertain future."
         }
     },
     "how-to-win-friends-and-influence-people-dale-carnegie": {

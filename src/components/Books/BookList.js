@@ -1,5 +1,10 @@
 const LIST = [
   {
+    title: 'Ai Superpowers',
+    author: 'Kai-Fu Lee',
+    url: 'ai-superpowers-kai-fu-lee',
+  },
+  {
     title: 'How to Win Friends and Influence People',
     author: 'Dale Carnegie',
     url: 'how-to-win-friends-and-influence-people-dale-carnegie',
