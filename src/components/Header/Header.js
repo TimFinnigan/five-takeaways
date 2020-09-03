@@ -4,13 +4,22 @@ import './Header.css';
 
 const Header = () => {
   return (
-    <div id='header-container'>
-      <h3 id='main-header'>Five Takeaways</h3>
-      <nav id='main-nav'>
-        <NavLink exact class='nav-link' activeStyle={{ color: 'grey' }} to='/'>
+    <div className='header'>
+      <h3 className='header__main'>Five Takeaways</h3>
+      <nav className='header__nav'>
+        <NavLink
+          exact
+          className='header__link'
+          activeStyle={{ color: 'grey' }}
+          to='/'
+        >
           Home
         </NavLink>
-        <NavLink class='nav-link' activeStyle={{ color: 'grey' }} to='/about'>
+        <NavLink
+          className='header__link'
+          activeStyle={{ color: 'grey' }}
+          to='/about'
+        >
           About
         </NavLink>
       </nav>

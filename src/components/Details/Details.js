@@ -16,9 +16,9 @@ const Details = (props) => {
   return (
     <div>
       <Header />
-      <div id='book-container'>
-        <div id='book-description'>{description}</div>
-        <div id='lesson-container'>
+      <div className='details'>
+        <div className='details__description'>{description}</div>
+        <div className='details__list'>
           <div className='lesson'>{one}</div>
           <div className='lesson'>{two}</div>
           <div className='lesson'>{three}</div>

@@ -1,11 +1,12 @@
-#book-container {
+.details {
   padding: 25px;
+  border: 1px solid red;
 }
 
-#book-description {
+.details__description {
   font-weight: bold;
 }
 
-#lesson-container {
+.details__list {
   border: 1px solid blue;
 }

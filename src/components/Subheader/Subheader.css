@@ -1,9 +1,9 @@
-#subheader {
+.subheader {
   text-align: center;
   padding: 10px;
 }
 
-#subheader__description1 {
+.subheader__one {
   font-size: 25px;
   margin-top: 20px;
   letter-spacing: 1px;
@@ -11,7 +11,7 @@
   font-weight: 300;
 }
 
-#subheader__description2 {
+.subheader__two {
   font-size: 15px;
   margin-top: 20px;
   letter-spacing: 1px;

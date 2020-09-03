@@ -1,4 +1,4 @@
-#header-container {
+.header {
   padding: 20px;
   border-bottom: 1px solid lightgrey;
   display: flex;
@@ -7,15 +7,15 @@
   text-transform: uppercase;
 }
 
-#main-header {
+.header__main {
   font-size: 35px;
 }
 
-#main-nav {
+.header__nav {
   font-size: 20px;
 }
 
-.nav-link {
+.header__link {
   text-decoration: none;
   margin-right: 15px;
   color: black;
