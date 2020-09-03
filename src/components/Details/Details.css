@@ -1,0 +1,12 @@
+#book-container {
+  padding: 25px;
+  border: 1px solid red;
+}
+
+#book-description {
+  font-weight: bold;
+}
+
+#lesson-container {
+  border: 1px solid blue;
+}

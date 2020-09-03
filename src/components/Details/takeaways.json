@@ -1,8 +1,18 @@
 {
     "mastery-robert-greene": {
-        "description": "description of mastery"
+        "description": "description of mastery",
+        "one": "Lesson one",
+        "two": "Lesson two",
+        "three": "Lesson three",
+        "four": "Lesson four",
+        "five": "Lesson five"
     },
     "zero-to-one-peter-thiel": {
-        "description": "description of zero to one"
+        "description": "description of zero to one",
+        "one": "Lesson one",
+        "two": "Lesson two",
+        "three": "Lesson three",
+        "four": "Lesson four",
+        "five": "Lesson five"
     }
 }
