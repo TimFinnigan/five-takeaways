@@ -36,6 +36,10 @@
   width: 230px;
 }
 
+.books__cover:hover {
+  opacity: 0.5;
+}
+
 .books__details {
   text-transform: uppercase;
   font-weight: 400;
