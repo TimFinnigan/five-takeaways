@@ -1,4 +1,149 @@
 {
+    "book": {
+        "title": "",
+        "description": "",
+        "one": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "two": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "three": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "four": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "five": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        }
+    },
+    "book": {
+        "title": "",
+        "description": "",
+        "one": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "two": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "three": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "four": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "five": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        }
+    },
+    "book": {
+        "title": "",
+        "description": "",
+        "one": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "two": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "three": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "four": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "five": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        }
+    },
+    "book": {
+        "title": "",
+        "description": "",
+        "one": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "two": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "three": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "four": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "five": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        }
+    },
+    "principles-ray-dalio": {
+        "title": "Principles by Ray Dalio",
+        "description": "Ray Dalio, founder of Bridgewater Capital, is considered to be the most successful hedge fund investor in the world. In this book, he shares the core principles that helped guide him to such great achievements. The major theme throughout Principles is this: understand who you are and how you work with others. By engaging in extreme self-awareness, we can set ourselves and our teams up for success.",
+        "one": {
+            "lesson": "Define your principles",
+            "quote": "Every day, each of us is faced with a blizzard of situations we must respond to. Without principles we would be forced to react to all the things life throws at us individually, as if we were experiencing each of them for the first time. If instead we classify these situations into types and have good principles for dealing with them, we will make better decisions more quickly and have better lives as a result.",
+            "text": "Instead of constantly reacting to things, we should have systems in place to deal with recurring situations. That way, we can conserve our mental energy and handle issues according to the patterns that characterize them."
+        },
+        "two": {
+            "lesson": "Recognize your weaknesses",
+            "quote": "Our upbringings and our experiences in the world have conditioned us to be embarrassed by our weaknesses and hide them…If you can be open with your weaknesses it will make you freer and will help you deal with them better…Bringing them to the surface will help you break your bad habits and develop good ones, and you will acquire real strengths and justifiable optimism.",
+            "text": "We must be honest with ourselves about our strengths and weaknesses. Otherwise, we are not acting in accordance to our full potential. If we can admit our weaknesses, then we can account for them. There is no shame in recognizing that you are not great at certain things."
+        },
+        "three": {
+            "lesson": "Practice radical open-mindedness",
+            "quote": "If you know that you are blind, you can figure out a way to see, whereas if you don’t know that you’re blind, you will continue to bump into your problems. In other words, if you can recognize that you have blind spots and open-mindedly consider the possibility that others might see something better than you—and that the threats and opportunities they are trying to point out really exist—you are more likely to make good decisions.",
+            "text": "Part of recognizing our weaknesses means being radically open-minded. First acknowledge that you have blind spots, and then have the humility to consider the perspectives of others when making decisions."
+        },
+        "four": {
+            "lesson": "Let the best ideas win",
+            "quote": "…this experience led me to build Bridgewater as an idea meritocracy—not an autocracy in which I lead and others follow, and not a democracy in which everyone’s vote is equal—but a meritocracy that encourages thoughtful disagreements and explores and weighs people’s opinions in proportion to their merits.",
+            "text": "An idea meritocracy is perhaps the best model for an organization when it comes to decision-making.  it’s important to look at problems and opportunities through the lens of whoever is most qualified in that domain."
+        },
+        "five": {
+            "lesson": "Pain + reflection = progress.",
+            "quote": "There is no avoiding pain, especially if you’re going after ambitious goals. Believe it or not, you are lucky to feel that kind of pain if you approach it correctly, because it is a signal that you need to find solutions so you can progress. If you can develop a reflexive reaction to psychic pain that causes you to reflect on it rather than avoid it, it will lead to your rapid learning/evolving.",
+            "text": "Pain is an inherent part of any organization pursuing ambitious goals. But it is not necessarily a bad thing. As long as we can learn lessons from the pain we experience, then we will grow, adapt, and evolve."
+        }
+    },
     "the-dip-seth-godin": {
         "title": "Zero to One by Peter Thiel",
         "description": "In the world of marketing, Seth Godin is a legend. However, this book is targeted towards a wider audience. Anyone who works on personal projects understands the pain and frustration involved. It can get so bad that we want to quit. But Seth believes quitting is not always a bad thing - as long as we quit the right things at the right time.",

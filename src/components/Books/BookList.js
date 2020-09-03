@@ -1,5 +1,10 @@
 const LIST = [
   {
+    title: 'Principles',
+    author: 'Ray Dalio',
+    url: 'principles-ray-dalio',
+  },
+  {
     title: 'The Dip',
     author: 'Seth Godin',
     url: 'the-dip-seth-godin',
