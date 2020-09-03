@@ -7,8 +7,12 @@ const Header = () => {
     <div id='header-container'>
       <h3 id='main-header'>Five Takeaways</h3>
       <nav id='main-nav'>
-        <Link to='/'>Home</Link>
-        <Link to='/about'>About</Link>
+        <Link class='nav-link' to='/'>
+          Home
+        </Link>
+        <Link class='nav-link' to='/about'>
+          About
+        </Link>
       </nav>
     </div>
   );
