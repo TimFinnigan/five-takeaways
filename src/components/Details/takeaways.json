@@ -1,5 +1,6 @@
 {
     "mastery-robert-greene": {
+        "title": "Mastery by Robert Greene",
         "description": "description of mastery",
         "one": "Lesson one",
         "two": "Lesson two",
@@ -8,6 +9,7 @@
         "five": "Lesson five"
     },
     "zero-to-one-peter-thiel": {
+        "title": "Zero to One by Peter Thiel",
         "description": "description of zero to one",
         "one": "Lesson one",
         "two": "Lesson two",

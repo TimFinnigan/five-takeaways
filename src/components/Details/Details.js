@@ -6,6 +6,7 @@ import './Details.css';
 
 const Details = (props) => {
   const BOOK = props.match.params.book;
+  let title = takeaways[BOOK].title;
   let description = takeaways[BOOK].description;
   let one = takeaways[BOOK].one;
   let two = takeaways[BOOK].two;
@@ -17,14 +18,15 @@ const Details = (props) => {
     <div>
       <Header />
       <div className='details'>
+        <div className='details__title'>{title}</div>
         <div className='details__description'>{description}</div>
-        <div className='details__list'>
-          <div className='lesson'>{one}</div>
-          <div className='lesson'>{two}</div>
-          <div className='lesson'>{three}</div>
-          <div className='lesson'>{four}</div>
-          <div className='lesson'>{five}</div>
-        </div>
+        <ul className='details__list'>
+          <li className='lesson'>{one}</li>
+          <li className='lesson'>{two}</li>
+          <li className='lesson'>{three}</li>
+          <li className='lesson'>{four}</li>
+          <li className='lesson'>{five}</li>
+        </ul>
       </div>
     </div>
   );

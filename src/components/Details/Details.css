@@ -1,6 +1,15 @@
 .details {
   padding: 25px;
   border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.details__title {
+  text-transform: uppercase;
+  font-size: 30px;
+  margin-bottom: 15px;
 }
 
 .details__description {
@@ -9,4 +18,5 @@
 
 .details__list {
   border: 1px solid blue;
+  margin: 20px;
 }
