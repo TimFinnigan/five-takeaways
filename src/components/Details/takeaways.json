@@ -1,31 +1,31 @@
 {
-    "mastery-robert-greene": {
-        "title": "Mastery by Robert Greene",
-        "description": "Robert Greene is the established author of books such as The 48 Laws of Power and The 33 Strategies of War. In his book Mastery, Greene lays out the steps involved in mastering a skill. Greene himself is a master at synthesizing ideas and finding patterns. This book contains a great deal of research on both historical and modern figures.",
+    "the-dip-seth-godin": {
+        "title": "Zero to One by Peter Thiel",
+        "description": "In the world of marketing, Seth Godin is a legend. However, this book is targeted towards a wider audience. Anyone who works on personal projects understands the pain and frustration involved. It can get so bad that we want to quit. But Seth believes quitting is not always a bad thing - as long as we quit the right things at the right time.",
         "one": {
-            "lesson": "Embrace your uniqueness",
-            "quote": "You are born with a particular makeup and tendencies that mark you as a piece of fate. It is who you are to the core. Some people never become who they are; they stop trusting in themselves; they conform to the tastes of others, and they end up wearing a mask that hides their true nature. If you allow yourself to learn who you really are by paying attention to that voice and force within you, then you can become what you were fated to become.",
-            "text": "Instead of ignoring or suppressing our differences, we should embrace that which makes us unique. There is no one in the world exactly like you. So learn more about yourself and what sets you apart. In order to become a master, you must find the intersection between your natural strengths and potential opportunities. "
+            "lesson": "The dip creates scarcity, which creates value",
+            "quote": "The Dip is the long slog between starting and mastery…Scarcity, as we’ve seen, is the secret to value. If there wasn’t a Dip, there’d be no scarcity.",
+            "text": "Every project worth doing involves obstacles along the way. If you expect The Dip, then you can prepare for it. If you're not ready for The Dip and the challenges it brings, then don't bother starting in the first place. But know that the rewards at the top are the best for a reason. People quit because of The Dip, which leads to scarcity, which means the most value is just beyond The Dip."
         },
         "two": {
-            "lesson": "Be passionately curious",
-            "quote": "Return to your childlike sense of wonder and endless curiosity about all things in order to stimulate your creative energy",
-            "text": "Everything is interesting. Being curious makes you more engaged with the world. Your curiosity can lead you down new paths and spark original ideas."
+            "lesson": "Quit the right stuff at the right time",
+            "quote": "Sometimes we get discouraged and turn to inspirational writing, like stuff from Vince Lombardi: 'Quitters never win and winners never quit.' Bad advice. Winners quit all the time. They just quit the right stuff at the right time. Most people quit. They just don’t quit successfully.",
+            "text": "Quitting is not inherently a bad thing. Depending on the situation, it could be the best decision. But instead of quitting reactively, we should quit strategically. Don't quit just because things start to get challenging. Quit things that are distracting you from what is most important. Quit things that are leading you down a dead end. "
         },
         "three": {
-            "lesson": "Pursue an apprenticeship",
-            "quote": "The goal of an apprenticeship is not money, a good position, a title, or a diploma, but rather the transformation of your mind and character—the first transformation on the way to mastery. You enter a career as an outsider. You are naïve and full of misconceptions about this new world. Your head is full of dreams and fantasies about the future. Your knowledge of the world is subjective, based on emotions, insecurities, and limited experience. Slowly, you will ground yourself in reality, in the objective world represented by the knowledge and skills that make people successful in it. You will learn how to work with others and handle criticism. In the process you will transform yourself from someone who is impatient and scattered into someone who is disciplined and focused, with a mind that can handle complexity. In the end, you will master yourself and all of your weaknesses.",
-            "text": "To truly master a skill, you should undergo an apprenticeship. Find a mentor and commit to years of training and practice. It takes patience and dedication to develop your abilities."
+            "lesson": "Decide in advance if you're going to quit",
+            "quote": "When the pressure is greatest to compromise, to drop out, or to settle, your desire to quit should be at its lowest. The decision to quit is often made in the moment. But that’s exactly the wrong time to make such a critical decision.",
+            "text": "The decision to quit should not be made in the moment. This is when it is most tempting to quit. Your quitting strategy should be outlined beforehand. You should prepare yourself for the future discomfort before it arrives."
         },
         "four": {
-            "lesson": "Suffer fools gladly",
-            "quote": "You must also be able to suffer fools gladly, to deal with the many incompetent and foolish people who will cross your path. Getting angry at people’s foolishness will needlessly drain you of energy and desire.",
-            "text": "Everyone has an opinion. We often have to deal with ignorant individuals who have no idea what they’re talking about. But you have to pick your battles. Don’t engage with everyone who has a problem with your pursuits. Prove people wrong through your actions and accomplishments."
+            "lesson": "Be the best in the world at something",
+            "quote": "Anyone who is going to hire you, buy from you, recommend you, vote for you, or do what you want them to do is going to wonder if you’re the best choice. Best as in: best for them, right now, based on what they believe and what they know. And in the world as in: their world, the world they have access to.",
+            "text": "If you're not going to try and be the best, why even start? People want the best. The \"best\" is subjective though, meaning that it is relative to the needs and desires of every individual. But technology continues to increase access to everything for everyone in the world. So if you're going to compete in some area with everything out there, you better be the best."
         },
         "five": {
-            "lesson": "Develop your social intelligence",
-            "quote": "By moving past our usual self-absorption, we can learn to focus deeply on others, reading their behavior in the moment, seeing what motivates them, and discerning any manipulative tendencies. Navigating smoothly the social environment, we have more time and energy to focus on learning and acquiring skills.",
-            "text": "Most of us spend the majority of our lives in our own world. We live in our minds, constantly distracted by recurring thoughts and daydreams. But you must escape this tendency, and focus on those around you. By developing your social intelligence, you can get better at observing others and understanding if they intend to help you or harm you on your journey to mastery."
+            "lesson": "Don't settle for mediocre",
+            "quote": "It’s easier to be mediocre than it is to confront reality and quit. Quitting is difficult. Quitting requires you to acknowledge that you’re never going to be #1 in the world. At least not at this. So it’s easier just to put it off, not admit it, settle for mediocre…The next time you catch yourself being average when you feel like quitting, realize that you have only two good choices: Quit or be exceptional. Average is for losers.",
+            "text": "Sometimes we have to put our pride aside and admit that we're never going to be the best at something. This can be a humbling experience. But once you admit this, it frees you to focus on another project that better coincides with your strengths and interests."
         }
     },
     "zero-to-one-peter-thiel": {
@@ -55,6 +55,35 @@
             "lesson": "Have a long-term vision",
             "quote": "Starting a business and then constantly evolving and adapting according to demand and metrics is not enough to take us from zero to one. You have to set out to do something original from the beginning, not seek to conform to the market’s fluctuating expectations.",
             "text": "Peter Thiel believes that the ‘Lean Startup’ movement is overrated. Although adaptability is vital to the success of startups, founders should also be committed to a long-term vision. Entrepreneurs must find the balance in being flexible with their tactics but persistent with their vision."
+        }
+    },
+    "mastery-robert-greene": {
+        "title": "Mastery by Robert Greene",
+        "description": "Robert Greene is the established author of books such as The 48 Laws of Power and The 33 Strategies of War. In his book Mastery, Greene lays out the steps involved in mastering a skill. Greene himself is a master at synthesizing ideas and finding patterns. This book contains a great deal of research on both historical and modern figures.",
+        "one": {
+            "lesson": "Embrace your uniqueness",
+            "quote": "You are born with a particular makeup and tendencies that mark you as a piece of fate. It is who you are to the core. Some people never become who they are; they stop trusting in themselves; they conform to the tastes of others, and they end up wearing a mask that hides their true nature. If you allow yourself to learn who you really are by paying attention to that voice and force within you, then you can become what you were fated to become.",
+            "text": "Instead of ignoring or suppressing our differences, we should embrace that which makes us unique. There is no one in the world exactly like you. So learn more about yourself and what sets you apart. In order to become a master, you must find the intersection between your natural strengths and potential opportunities. "
+        },
+        "two": {
+            "lesson": "Be passionately curious",
+            "quote": "Return to your childlike sense of wonder and endless curiosity about all things in order to stimulate your creative energy",
+            "text": "Everything is interesting. Being curious makes you more engaged with the world. Your curiosity can lead you down new paths and spark original ideas."
+        },
+        "three": {
+            "lesson": "Pursue an apprenticeship",
+            "quote": "The goal of an apprenticeship is not money, a good position, a title, or a diploma, but rather the transformation of your mind and character—the first transformation on the way to mastery. You enter a career as an outsider. You are naïve and full of misconceptions about this new world. Your head is full of dreams and fantasies about the future. Your knowledge of the world is subjective, based on emotions, insecurities, and limited experience. Slowly, you will ground yourself in reality, in the objective world represented by the knowledge and skills that make people successful in it. You will learn how to work with others and handle criticism. In the process you will transform yourself from someone who is impatient and scattered into someone who is disciplined and focused, with a mind that can handle complexity. In the end, you will master yourself and all of your weaknesses.",
+            "text": "To truly master a skill, you should undergo an apprenticeship. Find a mentor and commit to years of training and practice. It takes patience and dedication to develop your abilities."
+        },
+        "four": {
+            "lesson": "Suffer fools gladly",
+            "quote": "You must also be able to suffer fools gladly, to deal with the many incompetent and foolish people who will cross your path. Getting angry at people’s foolishness will needlessly drain you of energy and desire.",
+            "text": "Everyone has an opinion. We often have to deal with ignorant individuals who have no idea what they’re talking about. But you have to pick your battles. Don’t engage with everyone who has a problem with your pursuits. Prove people wrong through your actions and accomplishments."
+        },
+        "five": {
+            "lesson": "Develop your social intelligence",
+            "quote": "By moving past our usual self-absorption, we can learn to focus deeply on others, reading their behavior in the moment, seeing what motivates them, and discerning any manipulative tendencies. Navigating smoothly the social environment, we have more time and energy to focus on learning and acquiring skills.",
+            "text": "Most of us spend the majority of our lives in our own world. We live in our minds, constantly distracted by recurring thoughts and daydreams. But you must escape this tendency, and focus on those around you. By developing your social intelligence, you can get better at observing others and understanding if they intend to help you or harm you on your journey to mastery."
         }
     }
 }
