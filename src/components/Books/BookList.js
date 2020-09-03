@@ -1,5 +1,10 @@
 const LIST = [
   {
+    title: 'Range',
+    author: 'David Epstein',
+    url: 'range-david-epstein',
+  },
+  {
     title: 'Ai Superpowers',
     author: 'Kai-Fu Lee',
     url: 'ai-superpowers-kai-fu-lee',

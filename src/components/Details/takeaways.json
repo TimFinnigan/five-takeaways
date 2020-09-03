@@ -28,33 +28,33 @@
             "text": ""
         }
     },
-    "book": {
-        "title": "",
-        "description": "",
+    "range-david-epstein": {
+        "title": "Range by David Epstein",
+        "description": "We live in an increasingly complex and interdependent world. David Epstein argues in this book that more people should develop a range of skills, rather than specialize. There are numerous benefits to gaining experience in a wide variety of fields. Perhaps most importantly, it helps us learn to make creative connections between different areas and see things that others don’t.",
         "one": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Recognize the benefits of breadth over depth",
+            "quote": "…as complexity increases—as technology spins the world into vaster webs of interconnected systems in which each individual only sees a small part—we also need more…people who start broad and embrace diverse experiences and perspectives while they progress. People with range.",
+            "text": "In this book, the author highlights a contrast between the upbringing of professional athletes Tiger Woods and Roger Federer. Although both became champions in their sports, they had a much different path to get there. Woods specialized from early on, honing his craft and mastering the mechanics of golf. Federer, on the other hand, played a variety of sports growing up. The Tiger Woods story has been touted by many as a straightforward blueprint for success. However, there are many advantages to Federer’s approach, as a wide range of experiences helped prepare him for the many skills he developed and used in tennis. The takeaway is that head starts are overrated, and exposure to multiple domains helps us find the right fit uniquely suited for ourselves."
         },
         "two": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Flirt with the possible versions of yourself",
+            "quote": "Rather than expecting an ironclad a priori answer to “Who do I really want to become?,” their work indicated that it is better to be a scientist of yourself, asking smaller questions that can actually be tested—“ Which among my various possible selves should I start to explore now? How can I do that?” Be a flirt with your possible selves.* Rather than a grand plan, find experiments that can be undertaken quickly. “Test-and-learn…not plan-and-implement.",
+            "text": "People often assume that their identity is set in stone. The reality is that our lives could take many paths, and we have the freedom to experiment. Sometimes short-term experiments might look like failures, but we shouldn’t let that discourage us. Taking chances and making little bets can help us get closer to finding the best fit for ourselves. Don’t let the sunk-cost fallacy keep you from moving on from something that isn’t a good fit for you."
         },
         "three": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Engage in “lateral thinking with withered technology”",
+            "quote": "Lateral thinking is a term coined in the 1960s for the reimagining of information in new contexts, including the drawing together of seemingly disparate concepts or domains that can give old ideas new uses. By “withered technology,” [it means]  tech that was old enough to be extremely well understood and easily available, so it didn’t require a specialist’s knowledge. The heart of [this]  philosophy was putting cheap, simple technology to use in ways no one else considered.",
+            "text": "This was the philosophy that drove Gunpei Yokoi, the innovator behind many of Nintendo’s successes. Although many individuals and companies are drawn to cutting-edge technologies, the reality is that there are plenty of existing things that have untapped potential. Yokoi invented the Gameboy using parts that had been around for some time. By connecting the dots between things that are already out there, you can generate ideas that others miss."
         },
         "four": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Learning is best when it is slow and inefficient",
+            "quote": "…learning is most efficient in the long run when it is really inefficient in the short run. If you are doing too well when you test yourself, the simple antidote is to wait longer before practicing the same material again, so that the test will be more difficult when you do. Frustration is not a sign you are not learning, but ease is.",
+            "text": "Learning effectively may not look effective from the outside. We internalize knowledge best when we struggle to recall it from memory. If learning feels too easy, then it might mean that we’re not really learning the material well."
         },
         "five": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Understand the outsider advantage",
+            "quote": "Big innovation most often happens when an outsider who may be far away from the surface of the problem reframes the problem in a way that unlocks the solution.",
+            "text": "Sometimes experts are too close to a problem to its solution. We need to be adaptive and flexible. When you bring in outsiders from far-reaching backgrounds, they may offer unique perspectives that can unlock powerful insights."
         }
     },
     "ai-superpowers-kai-fu-lee": {
