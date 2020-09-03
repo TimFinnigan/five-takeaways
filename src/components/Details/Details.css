@@ -17,8 +17,13 @@
   font-weight: 300;
 }
 
+.details__book-cover {
+  width: 300px;
+  height: 300px;
+  margin: 25px;
+}
+
 .details__description {
-  margin-top: 25px;
   font-size: 18px;
   line-height: 35px;
   text-indent: 35px;

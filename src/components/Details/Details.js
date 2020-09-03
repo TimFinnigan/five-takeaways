@@ -5,13 +5,19 @@ import takeaways from './takeaways.json';
 import './Details.css';
 
 const Details = (props) => {
-  let info = takeaways[props.match.params.book];
+  let book = props.match.params.book;
+  let info = takeaways[book];
 
   return (
     <div>
       <Header />
       <div className='details'>
         <div className='details__title'>{info.title}</div>
+        <img
+          className='details__book-cover'
+          src={process.env.PUBLIC_URL + '/images/books/' + book + '.jpg'}
+          alt={book}
+        />
         <div className='details__description'>{info.description}</div>
         <div className='details__list'>
           <div className='details__takeaway'>
