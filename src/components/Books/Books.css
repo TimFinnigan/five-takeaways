@@ -3,6 +3,7 @@
   padding: 20px;
   display: flex;
   align-items: flex-start;
+  justify-content: center;
   flex-wrap: wrap;
   animation: fadeInAnimation ease 1s;
   animation-iteration-count: 1;
