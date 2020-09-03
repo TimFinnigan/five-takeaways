@@ -1,5 +1,10 @@
 const LIST = [
   {
+    title: 'Atomic Habits',
+    author: 'James Clear',
+    url: 'atomic-habits-james-clear',
+  },
+  {
     title: 'Range',
     author: 'David Epstein',
     url: 'range-david-epstein',
