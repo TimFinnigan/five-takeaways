@@ -2,24 +2,59 @@
     "mastery-robert-greene": {
         "title": "Mastery by Robert Greene",
         "description": "description of mastery",
-        "one": "Lesson one",
-        "oneText": "lesson one blah blaj",
-        "two": "Lesson two",
-        "twoText": "Lesson two blaaa",
-        "three": "Lesson three",
-        "threeText": "Lesson three",
-        "four": "Lesson four",
-        "fourText": "Lesson four",
-        "five": "Lesson five",
-        "fiveText": "Lesson five"
+        "one": {
+            "lesson": "lesson 1",
+            "quote": "quote 1",
+            "text": "text 1"
+        },
+        "two": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "three": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "four": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "five": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        }
     },
     "zero-to-one-peter-thiel": {
-        "title": "Zero to One by Peter Thiel",
-        "description": "description of zero to one",
-        "one": "Lesson one",
-        "two": "Lesson two",
-        "three": "Lesson three",
-        "four": "Lesson four",
-        "five": "Lesson five"
+        "title": "Mastery by Robert Greene",
+        "description": "description of mastery",
+        "one": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "two": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "three": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "four": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        },
+        "five": {
+            "lesson": "",
+            "quote": "",
+            "text": ""
+        }
     }
 }

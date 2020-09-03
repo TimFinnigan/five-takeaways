@@ -5,61 +5,54 @@ import takeaways from './takeaways.json';
 import './Details.css';
 
 const Details = (props) => {
-  const BOOK = props.match.params.book;
-  let title = takeaways[BOOK].title;
-  let description = takeaways[BOOK].description;
-  let one = takeaways[BOOK].one;
-  let oneText = takeaways[BOOK].oneText;
-  let two = takeaways[BOOK].two;
-  let twoText = takeaways[BOOK].twoText;
-  let three = takeaways[BOOK].three;
-  let threeText = takeaways[BOOK].threeText;
-  let four = takeaways[BOOK].four;
-  let fourText = takeaways[BOOK].fourText;
-  let five = takeaways[BOOK].five;
-  let fiveText = takeaways[BOOK].fiveText;
+  let info = takeaways[props.match.params.book];
 
   return (
     <div>
       <Header />
       <div className='details'>
-        <div className='details__title'>{title}</div>
-        <div className='details__description'>{description}</div>
+        <div className='details__title'>{info.title}</div>
+        <div className='details__description'>{info.description}</div>
         <div className='details__list'>
-          <div className='details__lesson'>
-            <div className='details__lesson-header'>
+          <div className='details__takeaway'>
+            <div className='details__takeaway-lesson'>
               {'1) '}
-              {one}
+              {info.one.lesson}
             </div>
-            <div className='details__lesson-description'>{oneText}</div>
+            <div className='details__takeaway-quote'>{info.one.quote}</div>
+            <div className='details__takeaway-text'>{info.one.text}</div>
           </div>
-          <div className='details__lesson'>
-            <div className='details__lesson-header'>
+          <div className='details__takeaway'>
+            <div className='details__takeaway-lesson'>
               {'2) '}
-              {two}
+              {info.two.lesson}
             </div>
-            <div className='details__lesson-description'>{twoText}</div>
+            <div className='details__takeaway-quote'>{info.two.quote}</div>
+            <div className='details__takeaway-text'>{info.two.text}</div>
           </div>
-          <div className='details__lesson'>
-            <div className='details__lesson-header'>
+          <div className='details__takeaway'>
+            <div className='details__takeaway-lesson'>
               {'3) '}
-              {three}
+              {info.three.lesson}
             </div>
-            <div className='details__lesson-description'>{threeText}</div>
+            <div className='details__takeaway-quote'>{info.three.quote}</div>
+            <div className='details__takeaway-text'>{info.three.text}</div>
           </div>
-          <div className='details__lesson'>
-            <div className='details__lesson-header'>
+          <div className='details__takeaway'>
+            <div className='details__takeaway-lesson'>
               {'4) '}
-              {four}
+              {info.four.lesson}
             </div>
-            <div className='details__lesson-description'>{fourText}</div>
+            <div className='details__takeaway-quote'>{info.four.quote}</div>
+            <div className='details__takeaway-text'>{info.four.text}</div>
           </div>
-          <div className='details__lesson'>
-            <div className='details__lesson-header'>
+          <div className='details__takeaway'>
+            <div className='details__takeaway-lesson'>
               {'5) '}
-              {five}
+              {info.five.lesson}
             </div>
-            <div className='details__lesson-description'>{fiveText}</div>
+            <div className='details__takeaway-quote'>{info.five.quote}</div>
+            <div className='details__takeaway-text'>{info.five.text}</div>
           </div>
         </div>
       </div>

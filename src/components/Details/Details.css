@@ -22,16 +22,24 @@
   font-size: 20px;
 }
 
-.details__lesson {
+.details__takeaway {
   margin: 20px 0;
 }
 
-.details__lesson-header {
+.details__takeaway-lesson {
   font-size: 25px;
   text-transform: uppercase;
 }
 
-.details__lesson-description {
-  margin-top: 10px;
-  border-left: 1px solid #000;
+.details__takeaway-quote {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 25px;
+  border-left: 3px solid lightgrey;
+  padding-left: 20px;
+}
+
+.details__takeaway-text {
+  color: 'grey';
+  margin: 25px;
 }
