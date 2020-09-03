@@ -29,32 +29,32 @@
         }
     },
     "zero-to-one-peter-thiel": {
-        "title": "Mastery by Robert Greene",
-        "description": "description of mastery",
+        "title": "Zero to One by Peter Thiel",
+        "description": "Peter Thiel is a polarizing but influential figure in Silicon Valley and beyond. As one of PayPal’s co-founders and Facebook’s first investors, Thiel has an impressive legacy. Now the billionaire entrepreneur is helping steer companies to success with his venture capital firm Founders Fund. In Zero to One, Thiel encourages startups to think long-term, and to focus on solving problems that nobody else is solving. Although his contrarian views might alienate many people, few can deny his impact on technology and business.",
         "one": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Competition is overrated",
+            "quote": "Focusing on competition and out-doing others makes us lose sight of the bigger picture. We are so obsessed with competition in our culture that we have internalized it to our core, but it traps us from putting our efforts into more useful and productive places.",
+            "text": "We fail to recognize new opportunities when we only focus on our competition. If you do what everyone else is doing, then you won’t break new ground. Commit yourself to being different and pursuing your own unique path."
         },
         "two": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Think for yourself",
+            "quote": "Detach yourself from society and culture. Take a step back and see the world anew. Everything is fresh, strange, and interesting. It’s by approaching things differently and with unique perspectives that we can hope to create amazing things.",
+            "text": "Humans are naturally inclined to imitate each other. But this tendency is detrimental to the success of companies. Become comfortable with contrarian thinking. Question the prevailing norms of society, culture, business and technology."
         },
         "three": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Start with a small market",
+            "quote": "Always strive to start out with small market…Pick a market with few or no competitors and set out to dominate that space.",
+            "text": "It’s better to start small and dominate a niche market. In smaller markets, there is less competition and you have more opportunity to dominate that space. Once your company is established, you can expand out into other areas."
         },
         "four": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Make vertical progress",
+            "quote": "If you take one typewriter and build 100, you have made horizontal progress. If you have a typewriter and build a word processor, you have made vertical progress.",
+            "text": "Vertical progress means innovating. If you create something original that society has never seen before, you are making vertical progress. Horizontal progress involves working on things that others are already doing."
         },
         "five": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Have a long-term vision",
+            "quote": "Starting a business and then constantly evolving and adapting according to demand and metrics is not enough to take us from zero to one. You have to set out to do something original from the beginning, not seek to conform to the market’s fluctuating expectations.",
+            "text": "Peter Thiel believes that the ‘Lean Startup’ movement is overrated. Although adaptability is vital to the success of startups, founders should also be committed to a long-term vision. Entrepreneurs must find the balance in being flexible with their tactics but persistent with their vision."
         }
     }
 }
