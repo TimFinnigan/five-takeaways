@@ -5,9 +5,9 @@ import './About.css';
 
 const About = () => {
   return (
-    <div>
+    <>
       <Header />
-      <div id='about-container'>
+      <div class='about'>
         Created by{' '}
         <a
           href='http://timfinnigan.com'
@@ -17,7 +17,7 @@ const About = () => {
           Tim Finnigan
         </a>
       </div>
-    </div>
+    </>
   );
 };
 

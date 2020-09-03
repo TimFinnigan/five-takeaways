@@ -6,25 +6,26 @@ import './Books.css';
 const Books = () => {
   const items = LIST.map((book) => (
     <Link
-      className='book-link'
+      className='books__link'
       key={book.title}
       to={{ pathname: '/' + book.url, book: { details: book } }}
     >
-      <div className='book-container' key={book.title}>
+      <div className='books__container' key={book.title}>
         <img
-          className='book'
+          className='books__cover'
           src={process.env.PUBLIC_URL + '/images/books/' + book.url + '.jpg'}
           alt={book.title}
         />
-        <div className='book-details'>
+        <div className='books__details'>
           {book.title} by {book.author}
         </div>
       </div>
     </Link>
   ));
+
   return (
-    <div id='book-container'>
-      <div id='book-list'>{items}</div>
+    <div className='books'>
+      <div className='books__list'>{items}</div>
     </div>
   );
 };
