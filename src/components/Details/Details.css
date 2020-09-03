@@ -13,13 +13,25 @@
 }
 
 .details__description {
-  font-weight: bold;
+  margin-top: 25px;
+  font-size: 20px;
 }
 
 .details__list {
   margin: 20px;
+  font-size: 20px;
 }
 
-.details__list li {
+.details__lesson {
   margin: 20px 0;
+}
+
+.details__lesson-header {
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.details__lesson-description {
+  margin-top: 10px;
+  border-left: 1px solid #000;
 }
