@@ -13,7 +13,7 @@ const Books = () => {
       <div className='book-container' key={book.title}>
         <img
           className='book'
-          src={process.env.PUBLIC_URL + '/images/books/' + book.image}
+          src={process.env.PUBLIC_URL + '/images/books/' + book.url + '.jpg'}
           alt={book.title}
         />
         <div className='book-details'>
