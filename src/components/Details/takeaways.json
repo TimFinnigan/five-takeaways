@@ -1,11 +1,11 @@
 {
     "mastery-robert-greene": {
         "title": "Mastery by Robert Greene",
-        "description": "description of mastery",
+        "description": "Robert Greene is the renowned author of books such as The 48 Laws of Power and The 33 Strategies of War. In his book Mastery, Greene lays out the steps involved in mastering a skill . Greene himself is a master at synthesizing ideas and finding patterns. This book contains a great deal of research on both historical and modern figures.",
         "one": {
-            "lesson": "lesson 1",
-            "quote": "quote 1",
-            "text": "text 1"
+            "lesson": "Embrace your uniqueness",
+            "quote": "You are born with a particular makeup and tendencies that mark you as a piece of fate. It is who you are to the core. Some people never become who they are; they stop trusting in themselves; they conform to the tastes of others, and they end up wearing a mask that hides their true nature. If you allow yourself to learn who you really are by paying attention to that voice and force within you, then you can become what you were fated to become.",
+            "text": "Instead of ignoring or suppressing our differences, we should embrace that which makes us unique. There is no one in the world exactly like you. So learn more about yourself and what sets you apart. In order to become a master, you must find the intersection between your natural strengths and potential opportunities. "
         },
         "two": {
             "lesson": "",
