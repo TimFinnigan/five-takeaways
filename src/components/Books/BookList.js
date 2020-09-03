@@ -1,5 +1,10 @@
 const LIST = [
   {
+    title: 'How to Win Friends and Influence People',
+    author: 'Dale Carnegie',
+    url: 'how-to-win-friends-and-influence-people-dale-carnegie',
+  },
+  {
     title: 'Principles',
     author: 'Ray Dalio',
     url: 'principles-ray-dalio',
