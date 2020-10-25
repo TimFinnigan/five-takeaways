@@ -1,21 +1,27 @@
 .header {
-  padding: 5px 45px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  text-transform: uppercase;
+	padding: 5px 25px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	text-transform: uppercase;
 }
 
 .header__main {
-  font-size: 35px;
+	font-size: 35px;
 }
 
 .header__nav {
-  font-size: 20px;
+	font-size: 20px;
 }
 
 .header__link {
-  text-decoration: none;
-  margin-right: 15px;
-  color: black;
+	text-decoration: none;
+	margin-right: 15px;
+	color: black;
+}
+
+@media only screen and (min-width: 1000px) {
+	.header {
+		padding: 5px 40px;
+	}
 }
