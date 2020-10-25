@@ -1,74 +1,80 @@
 .details {
-  padding: 30px 185px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    padding: 30px 185px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 @media only screen and (max-width: 800px) {
-  .details {
-    padding: 10px;
-  }
+    .details {
+        padding: 10px;
+    }
 }
 
 .details__title {
-  text-transform: uppercase;
-  font-size: 30px;
-  font-weight: 300;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 300;
 }
 
 .details__book-cover {
-  width: 300px;
-  height: 300px;
-  margin: 25px;
+    width: 300px;
+    height: 300px;
+    margin: 25px;
 }
 
 .details__description {
-  font-size: 18px;
-  line-height: 35px;
-  text-indent: 35px;
-  margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 35px;
+    margin-bottom: 20px;
 }
 
 .details__list {
-  margin: 20px;
-  font-size: 20px;
+    margin: 20px;
+    font-size: 20px;
 }
 
 .details__takeaway {
-  margin-bottom: 35px;
+    margin-bottom: 35px;
 }
 
 .details__takeaway-lesson {
-  font-size: 20px;
-  text-transform: uppercase;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 
 .details__takeaway-quote {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 25px;
-  margin-right: 100px;
-  border-left: 3px solid lightgrey;
-  padding-left: 20px;
-  font-style: italic;
-  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-  color: grey;
-  line-height: 25px;
-  font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-left: 3px solid lightgrey;
+    padding-left: 20px;
+    font-style: italic;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: grey;
+    line-height: 25px;
+    font-size: 18px;
 }
 
 .details__takeaway-quote:before {
-  content: open-quote;
+    content: open-quote;
 }
 
 .details__takeaway-quote:after {
-  content: close-quote;
+    content: close-quote;
 }
 
 .details__takeaway-text {
-  color: 'grey';
-  margin: 15px;
-  line-height: 25px;
-  font-size: 16px;
+    color: 'grey';
+    margin: 15px;
+    line-height: 25px;
+    font-size: 16px;
+}
+
+@media only screen and (min-width: 1000px) {
+    .details__takeaway-quote {
+        margin-right: 100px;
+    }
 }
