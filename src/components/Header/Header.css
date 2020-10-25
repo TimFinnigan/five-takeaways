@@ -20,6 +20,12 @@
 	color: black;
 }
 
+@media only screen and (max-width: 600px) {
+	.header {
+		padding: 5px 5px;
+	}
+}
+
 @media only screen and (min-width: 1000px) {
 	.header {
 		padding: 5px 40px;
