@@ -1,6 +1,11 @@
 .about {
-  text-align: center;
-  margin: 100px;
-  font-size: 25px;
-  letter-spacing: 1px;
+	text-align: center;
+	margin: 100px;
+	letter-spacing: 1px;
+}
+
+.about a {
+	font-size: 18px;
+	color: steelblue;
+	text-decoration: none;
 }
