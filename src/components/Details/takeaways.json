@@ -1,4 +1,33 @@
 {
+    "no-rules-rules-reed-hastings": {
+        "title": "No Rules Rules by Reed Hastings",
+        "description": "Netflix is one of the most innovative companies in the world. ",
+        "one": {
+            "lesson": "Understand the laws of behavior change",
+            "quote": "To create a good habit, make it obvious, attractive, easy, and satisfying. To break a bad habit, make it invisible, unattractive, difficult, unsatisfying.",
+            "text": "Changing your behavior is hard. We naturally want to do what is easy and avoid what is challenging. You should build or avoid habits based on this natural reality."
+        },
+        "two": {
+            "lesson": "True behavior change is identity change",
+            "quote": "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.",
+            "text": "You are what you do. The more often you do a certain thing, then more it reflects your identity."
+        },
+        "three": {
+            "lesson": "Follow the goldilocks rule",
+            "quote": "The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.",
+            "text": "It's easy to get discouraged and want to give up. That's why we should do things that challenge us, but not to the extent that it becomes discouraging."
+        },
+        "four": {
+            "lesson": "Tailor your habits to your personality and interests",
+            "quote": "Our deeply rooted preferences make certain behaviors easier for some people than for others. You don’t have to apologize for these differences or feel guilty about them, but you do have to work with them.",
+            "text": "We all have natural strengths and weaknesses. The key to building good habits is doing so in such a way that aligns with your unique personality."
+        },
+        "five": {
+            "lesson": "Keep your identity flexible",
+            "quote": "When you cling too tightly to one identity, you become brittle. Lose that one thing and you lose yourself.",
+            "text": "Most of us are attached to an idea of ourselves. Clinging too tightly to this identity can prevent us from growing and improving."
+        }
+    },
     "atomic-habits-james-clear": {
         "title": "Atomic Habits by James Clear",
         "description": "Habits are the building blocks of our lives. Small actions, executed on a consistent basis, will compound in their effects. This book is a considered a modern classic in self-development. The author, James Clear, speaks from personal experience about how to effectively channel our natural inclinations to our advantage.",
