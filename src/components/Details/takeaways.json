@@ -1,11 +1,11 @@
 {
     "no-rules-rules-reed-hastings": {
         "title": "No Rules Rules by Reed Hastings",
-        "description": "Netflix is one of the most innovative companies in the world. ",
+        "description": "Netflix is one of the most innovative companies in the world. In this book, Netflix founder and CEO Reed Hastings shares valuable lessons from his years of experience. He emphasizes the importance of empowering employees to think and act independently. Giving employees more autonomy has helped Netflix disrupt industries and remain competitive year after year.",
         "one": {
             "lesson": "Build Up Your Talent Density",
             "quote": "At most companies, policies and control processes are put in place to deal with employees who exhibit sloppy, unprofessional, or irresponsible behavior. But if you avoid or move out these people, you don’t need the rules. If you build an organization made up of high performers, you can eliminate most controls. The denser the talent, the greater the freedom you can offer.",
-            "text": "If you want great results, then you need great employees. This sounds obvious, but most companies aren't willing to pay top-of-market salaries to get these top performers. It's better to have one exceptional workers rather than multiple average employees. And the better your workers are, the fewer policies and controls you need in your organization."
+            "text": "If you want great results, then you need great employees. This sounds obvious, but most companies aren't willing to pay top-of-market salaries to get these top performers. It's better to have one exceptional worker rather than a few average employees. And the better your workers are, the fewer policies and controls you need in your organization."
         },
         "two": {
             "lesson": "Promote a Culture of Candor",
@@ -18,14 +18,14 @@
             "text": "Many Netflix employees are initially shocked by how much independence they are given. Even newer workers could make multi-million dollar decisions without approval from their managers. Mistakes inevitably get made, but there are also more successes when people are trusted to think and act on their own."
         },
         "four": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Open The Books",
+            "quote": "Spinning the truth is one of the most common ways leaders erode trust. I can’t say this clearly enough: don’t do this. Your people are not stupid. When you try to spin them, they see it, and it makes you look like a fraud. Speak plainly, without trying to make bad situations seem good, and your employees will learn you tell the truth.",
+            "text": "Transparency helps build trust between employees and a company. When managers try to hide tough realities, it often backfires. Workers deserve to know what is going on with their company. And the more informed a workforce is, the more enabled they are to make better decisions on their own."
         },
         "five": {
-            "lesson": "",
-            "quote": "",
-            "text": ""
+            "lesson": "Shine Light on Failures and Mistakes",
+            "quote": "When you sunshine your failed bets, everyone wins. You win because people learn they can trust you to tell the truth and to take responsibility for your actions. The team wins because it learns from the lessons that came out of the project. And the company wins because everyone sees clearly that failed bets are an inherent part of an innovative success wheel. We shouldn’t be afraid of our failures. We should embrace them.",
+            "text": "Innovating means taking risks. Netflix employees are encouraged to take big bets that might pay off. But they are also encouraged to socialize their ideas and \"farm for dissent\". If the risk seems worth taking, then workers should go for it. And if it doesn't work out, don't sweep it under the rug. Instead, make it public and focus on what lessons can be learned from it."
         }
     },
     "atomic-habits-james-clear": {
