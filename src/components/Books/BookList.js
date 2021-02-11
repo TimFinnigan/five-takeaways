@@ -1,5 +1,10 @@
 const LIST = [
 	{
+		title: 'The Infinite Game',
+		author: 'Simon Sinek',
+		url: 'the-infinite-game-simon-sinek',
+	},
+	{
 		title: 'No Rules Rules',
 		author: 'Reed Hastings',
 		url: 'no-rules-rules-reed-hastings',
