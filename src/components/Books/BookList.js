@@ -1,5 +1,10 @@
 const LIST = [
 	{
+		title: 'Working Backwards',
+		author: 'Colin Bryar & Bill Carr',
+		url: 'working-backwards-colin-bryar-bill-carr',
+	},
+	{
 		title: 'The Infinite Game',
 		author: 'Simon Sinek',
 		url: 'the-infinite-game-simon-sinek',
