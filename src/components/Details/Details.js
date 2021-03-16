@@ -23,11 +23,16 @@ const Details = (props) => {
 					}
 					alt={book}
 				/>
-				<img
-					className='details__amazon-button'
-					src={process.env.PUBLIC_URL + '/images/buy-from-amazon.png'}
-					alt={'Buy from Amazon'}
-				/>
+				<a target='_blank' rel='noopener noreferrer' href={info.amazon}>
+					<img
+						className='details__amazon-button'
+						src={
+							process.env.PUBLIC_URL +
+							'/images/buy-from-amazon.png'
+						}
+						alt={'Buy from Amazon'}
+					/>
+				</a>
 				<div className='details__description'>{info.description}</div>
 				<div className='details__list'>
 					<div className='details__takeaway'>
