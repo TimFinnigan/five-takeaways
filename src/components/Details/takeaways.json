@@ -32,6 +32,7 @@
     "the-infinite-game-simon-sinek": {
         "title": "The Infinite Game by Simon Sinek",
         "description": "Finite games involve winners and losers. But in an infinite game, the goal is to simply to continue playing. That means focusing on the pursuit of a long-term vision rather than worrying about your competition. We must overcome the pressure to give in to short-term thinking, because the best companies are built to last.",
+        "amazon": "https://amzn.to/3s0MnTe",
         "one": {
             "lesson": "You need a Just Cause to inspire people",
             "quote": "The motivation to play in an infinite game is to advance something bigger than ourselves or our organizations. Any leader who wishes to lead in the Infinite Game must have a crystal clear Just Cause.  A Just Cause is a specific vision of a future state that does not yet exist; a future state so appealing that people are willing to make sacrifices in order to help advance toward that vision.",
@@ -61,6 +62,7 @@
     "no-rules-rules-reed-hastings": {
         "title": "No Rules Rules by Reed Hastings",
         "description": "Netflix is one of the most innovative companies in the world. In this book, Netflix founder and CEO Reed Hastings shares valuable lessons from his years of experience. He emphasizes the importance of empowering employees to think and act independently. Giving employees more autonomy has helped Netflix disrupt industries and remain competitive year after year.",
+        "amazon": "https://amzn.to/3eLMOg9",
         "one": {
             "lesson": "Build Up Your Talent Density",
             "quote": "At most companies, policies and control processes are put in place to deal with employees who exhibit sloppy, unprofessional, or irresponsible behavior. But if you avoid or move out these people, you don’t need the rules. If you build an organization made up of high performers, you can eliminate most controls. The denser the talent, the greater the freedom you can offer.",
@@ -90,6 +92,7 @@
     "atomic-habits-james-clear": {
         "title": "Atomic Habits by James Clear",
         "description": "Habits are the building blocks of our lives. Small actions, executed on a consistent basis, will compound in their effects. This book is a considered a modern classic in self-development. The author, James Clear, speaks from personal experience about how to effectively channel our natural inclinations to our advantage.",
+        "amazon": "https://amzn.to/3bTErNH",
         "one": {
             "lesson": "Understand the laws of behavior change",
             "quote": "To create a good habit, make it obvious, attractive, easy, and satisfying. To break a bad habit, make it invisible, unattractive, difficult, unsatisfying.",
@@ -119,6 +122,7 @@
     "range-david-epstein": {
         "title": "Range by David Epstein",
         "description": "We live in an increasingly complex and interdependent world. David Epstein argues in this book that more people should develop a range of skills, rather than specialize. There are numerous benefits to gaining experience in a wide variety of fields. Perhaps most importantly, it helps us learn to make creative connections between different areas and see things that others don’t.",
+        "amazon": "https://amzn.to/3cCrF5z",
         "one": {
             "lesson": "Recognize the benefits of breadth over depth",
             "quote": "…as complexity increases—as technology spins the world into vaster webs of interconnected systems in which each individual only sees a small part—we also need more…people who start broad and embrace diverse experiences and perspectives while they progress. People with range.",
@@ -148,6 +152,7 @@
     "ai-superpowers-kai-fu-lee": {
         "title": "AI Superpowers by Kai-Fu Lee",
         "description": "Kai-Fu Lee draws from a wealth of experience from the worlds of business and technology. Lee worked for some of the top tech companies in the United States and a successful venture capital firm in China. He is uniquely positioned to offer powerful insights on how Artificial Intelligence is changing the world. Perhaps he is somewhat biased in favor of China, but still we should not disregard the claims he is making.",
+        "amazon": "https://amzn.to/2P49iy3",
         "one": {
             "lesson": "Data is fueling the progress in ai",
             "quote": "The invention of deep learning means that we are moving from the age of expertise to the age of data. Training successful deep-learning algorithms requires computing power, technical talent, and lots of data. But of those three, it is the volume of data that will be the most important going forward. That’s because once technical talent reaches a certain threshold, it begins to show diminishing returns. Beyond that point, data makes all the difference. Algorithms tuned by an average engineer can outperform those built by the world’s leading experts if the average engineer has access to far more data.",
@@ -177,6 +182,7 @@
     "how-to-win-friends-and-influence-people-dale-carnegie": {
         "title": "How To Win Friends And Influence People By Dale Carnegie",
         "description": "First published in 1936, How to Win Friends and Influence People remains a classic. Dale Carnegie lays out the essential principles for interacting with others. Although much of his advice might be considered common sense, the lessons he teaches are powerful. The core message of this book is to treat people well, and understand that we are all sensitive creatures who simply long to be understood.",
+        "amazon": "https://amzn.to/3tyrJKx",
         "one": {
             "lesson": "People are often emotional and irrational",
             "quote": "When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.",
@@ -206,6 +212,7 @@
     "principles-ray-dalio": {
         "title": "Principles by Ray Dalio",
         "description": "Ray Dalio, founder of Bridgewater Capital, is considered to be the most successful hedge fund investor in the world. In this book, he shares the core principles that helped guide him to such great achievements. The major theme throughout Principles is this: understand who you are and how you work with others. By engaging in extreme self-awareness, we can set ourselves and our teams up for success.",
+        "amazon": "https://amzn.to/38MTib4",
         "one": {
             "lesson": "Define your principles",
             "quote": "Every day, each of us is faced with a blizzard of situations we must respond to. Without principles we would be forced to react to all the things life throws at us individually, as if we were experiencing each of them for the first time. If instead we classify these situations into types and have good principles for dealing with them, we will make better decisions more quickly and have better lives as a result.",
@@ -233,8 +240,9 @@
         }
     },
     "the-dip-seth-godin": {
-        "title": "Zero to One by Peter Thiel",
+        "title": "The Dip by Seth Godin",
         "description": "In the world of marketing, Seth Godin is a legend. However, this book is targeted towards a wider audience. Anyone who works on personal projects understands the pain and frustration involved. It can get so bad that we want to quit. But Seth believes quitting is not always a bad thing - as long as we quit the right things at the right time.",
+        "amazon": "https://amzn.to/3ts51DM",
         "one": {
             "lesson": "The dip creates scarcity, which creates value",
             "quote": "The Dip is the long slog between starting and mastery…Scarcity, as we’ve seen, is the secret to value. If there wasn’t a Dip, there’d be no scarcity.",
@@ -264,6 +272,7 @@
     "zero-to-one-peter-thiel": {
         "title": "Zero to One by Peter Thiel",
         "description": "Peter Thiel is a polarizing but influential figure in Silicon Valley and beyond. As one of PayPal’s co-founders and Facebook’s first investors, Thiel has an impressive legacy. Now the billionaire entrepreneur is helping steer companies to success with his venture capital firm Founders Fund. In Zero to One, Thiel encourages startups to think long-term, and to focus on solving problems that nobody else is solving. Although his contrarian views might alienate many people, few can deny his impact on technology and business.",
+        "amazon": "https://amzn.to/3vxvXnn",
         "one": {
             "lesson": "Competition is overrated",
             "quote": "Focusing on competition and out-doing others makes us lose sight of the bigger picture. We are so obsessed with competition in our culture that we have internalized it to our core, but it traps us from putting our efforts into more useful and productive places.",
@@ -293,6 +302,7 @@
     "mastery-robert-greene": {
         "title": "Mastery by Robert Greene",
         "description": "Robert Greene is the established author of books such as The 48 Laws of Power and The 33 Strategies of War. In his book Mastery, Greene lays out the steps involved in mastering a skill. Greene himself is a master at synthesizing ideas and finding patterns. This book contains a great deal of research on both historical and modern figures.",
+        "amazon": "https://amzn.to/3vAx8Tc",
         "one": {
             "lesson": "Embrace your uniqueness",
             "quote": "You are born with a particular makeup and tendencies that mark you as a piece of fate. It is who you are to the core. Some people never become who they are; they stop trusting in themselves; they conform to the tastes of others, and they end up wearing a mask that hides their true nature. If you allow yourself to learn who you really are by paying attention to that voice and force within you, then you can become what you were fated to become.",
