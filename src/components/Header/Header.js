@@ -9,14 +9,14 @@ const Header = () => {
 				<h3 className='header__main'>Five Takeaways</h3>
 			</NavLink>
 			<nav className='header__nav'>
-				<NavLink
+				{/* <NavLink
 					exact
 					className='header__link'
 					activeStyle={{ color: 'grey' }}
 					to='/'
 				>
 					Home
-				</NavLink>
+				</NavLink> */}
 				{/* <NavLink
           className='header__link'
           activeStyle={{ color: 'grey' }}
