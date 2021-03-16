@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import './Header.css';
 
 const Header = () => {
@@ -24,13 +24,14 @@ const Header = () => {
         >
           About
         </NavLink> */}
-				<NavLink
+				<a
+					target='_blank'
+					rel='noopener noreferrer'
 					className='header__link'
-					activeStyle={{ color: 'grey' }}
-					to='/subscribe'
+					href='http://eepurl.com/htlJmf'
 				>
 					Subscribe
-				</NavLink>
+				</a>
 			</nav>
 		</div>
 	);
