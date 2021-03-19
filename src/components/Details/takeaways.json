@@ -151,12 +151,12 @@
     },
     "ai-superpowers-kai-fu-lee": {
         "title": "AI Superpowers by Kai-Fu Lee",
-        "description": "Kai-Fu Lee draws from a wealth of experience from the worlds of business and technology. Lee worked for some of the top tech companies in the United States and a successful venture capital firm in China. He is uniquely positioned to offer powerful insights on how Artificial Intelligence is changing the world. Perhaps he is somewhat biased in favor of China, but still we should not disregard the claims he is making.",
+        "description": "Kai-Fu Lee has a wealth of experience from the worlds of business and technology. Not only has he worked for some of the top tech companies in the United States, but he also runs an incredibly successful venture capital firm in China. He is uniquely positioned to offer powerful insights on how Artificial Intelligence is changing the world.",
         "amazon": "https://amzn.to/2P49iy3",
         "one": {
-            "lesson": "Data is fueling the progress in ai",
+            "lesson": "Data is fueling this rise in ai",
             "quote": "The invention of deep learning means that we are moving from the age of expertise to the age of data. Training successful deep-learning algorithms requires computing power, technical talent, and lots of data. But of those three, it is the volume of data that will be the most important going forward. That’s because once technical talent reaches a certain threshold, it begins to show diminishing returns. Beyond that point, data makes all the difference. Algorithms tuned by an average engineer can outperform those built by the world’s leading experts if the average engineer has access to far more data.",
-            "text": "Data is crucial when it comes to successfully training algorithms. China is uniquely positioned in this regard. Its huge population and lack of privacy laws help it collect massive amounts of data."
+            "text": "Data is crucial when it comes to successfully training algorithms. China is in a strong position in this regard. Its huge population and lack of privacy laws help it collect massive amounts of data."
         },
         "two": {
             "lesson": "Chinese companies are more market-driven than mission-driven",
@@ -166,12 +166,12 @@
         "three": {
             "lesson": "The Chinese government is more proactive at investing in technology",
             "quote": "…while America’s combative political system aggressively punishes missteps or waste in funding technological upgrades, China’s techno-utilitarian approach rewards proactive investment and adoption.",
-            "text": "Democracies can often be incredibly inefficient. Open debate and quick election cycles lead to short-term thinking and a conservative approach to innovation. This may be the price of having more freedoms."
+            "text": "Democracy brings freedoms but also inefficiencies. Open debate and quick election cycles lead to short-term thinking and a conservative approach to innovation."
         },
         "four": {
-            "lesson": "We should invest in service-oriented jobs to offset rising unemployment",
-            "quote": "…care, service, and education—would encompass a wide range of activities, with different levels of compensation for full- and part-time participation. Care work could include parenting of young children, attending to an aging parent, assisting a friend or family member dealing with illness, or helping someone with mental or physical disabilities live life to the fullest. This category would create a veritable army of people—loved ones, friends, or even strangers—who could assist those in need...",
-            "text": "Artificial Intelligence could start replacing jobs at an alarming rate. Instead of panicking, we should invest more in service work and caregiver roles. Let’s help people help each other, by funding initiatives to spread compassion."
+            "lesson": "Invest in Care, Service, and Education",
+            "quote": "Care work could include parenting of young children, attending to an aging parent, assisting a friend or family member dealing with illness, or helping someone with mental or physical disabilities live life to the fullest. Service work could include performing environmental remediation, leading afterschool programs, guiding tours at national parks. Education could range from professional training for the jobs of the AI age to taking classes that could transform a hobby into a career.",
+            "text": "Artificial Intelligence will start replacing jobs at an alarming rate. We should invest in service-oriented roles where people directly help each other."
         },
         "five": {
             "lesson": "Love is what separates humans from technology",
