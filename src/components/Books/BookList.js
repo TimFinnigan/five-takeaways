@@ -11,7 +11,7 @@ const LIST = [
 	},
 	{
 		title: 'No Rules Rules',
-		author: 'Reed Hastings',
+		author: 'Reed Hastings & Erin Meyer',
 		url: 'no-rules-rules-reed-hastings',
 	},
 	{
